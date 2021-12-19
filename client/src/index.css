@@ -1,0 +1,16 @@
+#root,
+html,
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.MuiAppBar-root {
+  z-index: '9999';
+}
